@@ -226,3 +226,8 @@ The learning curves (training and validation accuracy and loss) of the model are
 As you can see we achieved an accuracy of more than **98% in the validation dataset** which is nice!
 
 In my 2.5 GHz i7, 16 GB Ram MacBook Pro, the model took almost 17 minutes to train.
+
+### References
+1. [COVID-19: Face Mask Detection using TensorFlow and OpenCV](https://towardsdatascience.com/covid-19-face-mask-detection-using-tensorflow-and-opencv-702dd833515b)
+2. [Mask images dataset](https://github.com/prajnasb/observations/tree/master/experiements/data)
+3. [Google developer - ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification/convolutional-neural-networks)
